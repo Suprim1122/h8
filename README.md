@@ -35,13 +35,13 @@ These are tasks I completed voluntarily beyond the required minimum.
 
 In H2 I wrote an original attack story called "The HR Imposter" where I mapped out a 5-step attack scenario using MITRE ATT&CK tactics, including LinkedIn reconnaissance, phishing, credential theft, and persistence. You can find it here: [Info-Sec-H2](https://github.com/Suprim1122/Info-Sec-H2)
 
-In H4 I completed an extra PortSwigger SQL injection lab where I exploited a vulnerable category filter using `OR 1=1 --` to retrieve hidden products from the database. You can find it here: [JhonnyTables.md](https://github.com/Suprim1122/JhonnyTables.md)
+In H4 I completed an extra PortSwigger SQL injection lab where I exploited a vulnerable category filter using OR 1=1 -- to retrieve hidden products from the database. You can find it here: [JhonnyTables.md](https://github.com/Suprim1122/JhonnyTables.md)
 
 In H5 I installed and demonstrated KeePassXC as a cloudless password manager. I also explained how it protects against credential stuffing and keylogger attacks. You can find it here: [h5](https://github.com/Suprim1122/h5)
 
 In H5 I also completed a full GPG encryption exercise where I generated a key pair, encrypted a secret message, and decrypted it using GnuPG. You can find it here: [h5](https://github.com/Suprim1122/h5)
 
-In H6 I cracked the MD5 hash `d595b2086532422bbe654bc07ea030df` using Hashcat with the rockyou.txt wordlist. The cracked password was `disobey`. You can find it here: [H6](https://github.com/Suprim1122/H6)
+In H6 I cracked the MD5 hash `d595b2086532422bbe654bc07ea030df` using Hashcat with the rockyou.txt wordlist. The cracked password was disobey. You can find it here: [H6](https://github.com/Suprim1122/H6)
 
 ## Conclusion
 
